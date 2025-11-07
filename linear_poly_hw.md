@@ -49,7 +49,7 @@ This dataset represents the relationship between **daily weightlifting load in k
 6. 📈 **Draw** the graph of the regression parabola + observation points for the **Polynoial Regression**  
 7. **Predict** (using model.predict) the value of 4.5 hours in the first model, and 0.5 load-kg in the second model
 
-###💡 Theoretical Questions — Test Your Understanding (Bonus)  
+### Theoretical Questions — Test Your Understanding (Bonus)  💡
 8. 🧾 What’s the difference between model.score and the r2_score function?  
 9. 🎯 Why do we need to calculate Adjusted R² instead of just relying on R²?  
 A. 🌀 In the parabola function aX² + bX + c, explain how each parameter (a, b, c) affects the shape and position of the parabola  
