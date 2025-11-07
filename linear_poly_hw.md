@@ -45,8 +45,8 @@ This dataset represents the relationship between **daily weightlifting load in k
 2. 🔍 If the pattern looks linear, fit **Linear Regression**; if it looks curved, fit **Polynomial Regression** (degree=2)
 3. 📊 **For both models**: Calc and print **MSE, R²** 
 4. 📉 **For Polynomial Regression only**: Calc and print **Adjusted R²**  
-5. 📈 **Draw** the graph of the line + observation points for the **Linear Regression**  
-6. 📈 **Draw** the graph of the parabola + observation points for the **Polynoial Regression**  
+5. 📈 **Draw** the graph of the regression line + observation points for the **Linear Regression**  
+6. 📈 **Draw** the graph of the regression parabola + observation points for the **Polynoial Regression**  
 7. **Predict** (using model.predict) the value of 4.5 hours in the first model, and 0.5 load-kg in the second model
 
 **Bonus**: try solving the curved parabola with LinearRegression and check the R². how much it proved when using **Polynomial Regression** (degree=2)?
