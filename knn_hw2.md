@@ -28,6 +28,10 @@ Y_data = np.array([2.1, 2.8, 3.5, 4.2, 4.9, 5.7, 6.4, 7.2])
 
 ### Task
 
+Euclidean distances  
+
+$$d(p, q) = \sqrt{\sum_{i=1}^{n} (p_i - q_i)^2}$$
+
 1. Input a new point (X1, X2, X3)
 2. Compute Euclidean distances to every point in `X_data`
 3. Find the 3 nearest neighbors
