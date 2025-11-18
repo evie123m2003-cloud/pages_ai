@@ -23,7 +23,7 @@ y = whether the person hit 10k steps that day (1 = yes, 0 = no)
 
 ## 📝 Exercise Requirements
 
-**demo code:**  
+**Demo code:**  
 https://github.com/pythonai200425/17.11.2025/blob/main/log_2.ipynb
 
 ### **1️⃣ Train Logistic Regression Model**
