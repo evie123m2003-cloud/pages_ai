@@ -91,15 +91,15 @@ Since $2x_1 - x_2 + x_3 + x_4 - 4 = -1 < 0$, $P_3$ is **below** the hyperplane.
 ## Task:
 1. Compute distance from each point to the surface  
 2. For each point state if its above, below or on the surface
-3. find the closest point to the surface which is **above** the surface  
-4. find the closest point to the surface which is **below** the surface  
+3. Find the closest point to the surface which is **above** the surface  
+4. Find the closest point to the surface which is **below** the surface  
 
 ## Starter NumPy Code
 
 ```python
 import numpy as np
 
-# 10 points in $$\mathbb{R}^4$$: [x1, x2, x3, x4]
+# 10 points 
 points = np.array([
     [0, 0, 0, 0],   # P1
     [2, 0, 0, 0],   # P2
@@ -113,5 +113,6 @@ points = np.array([
     [3, 2, 1, 0],   # P10
 ], dtype=float)
 
-w = np.array([2, -1, 1, 1], dtype=float)
-b = -4.0
+
+יש לשלוח את הפתרון למייל:
+📧 [pythonai200425+svmhw@gmail.com](mailto:pythonai200425+svmhw@gmail.com)
