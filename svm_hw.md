@@ -85,10 +85,14 @@ Since $2x_1 - x_2 + x_3 + x_4 - 4 = -1 < 0$, $P_3$ is **below** the hyperplane.
 - $$P_6$$ = (4, 1, -1, 0)
 - $$P_7$$ = (1, 0, 2, 1)
 - $$P_8$$ = (2, 1, 0, 3)
-- $$P_$$9 = (0, -1, 0, 3)
+- $$P_9$$ = (0, -1, 0, 3)
 - $$P_10$$ = (3, 2, 1, 0)
 
----
+## Task:
+1. Compute distance from each point to the surface  
+2. For each point state if its above, below or on the surface
+3. find the closest point to the surface which is **above** the surface  
+4. find the closest point to the surface which is **below** the surface  
 
 ## Starter NumPy Code
 
