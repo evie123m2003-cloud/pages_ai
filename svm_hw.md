@@ -1,6 +1,6 @@
 # SVM – Exercise 1: Distances to a Hyperplane in 4D
 
-We work in 4-dimensional space with features (x_1, x_2, x_3, x_4)
+We work in 4-dimensional space with features ($$x_1, x_2, x_3, x_4$$)
 
 The separating hyperplane (decision surface) is:
 
