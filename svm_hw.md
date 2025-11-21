@@ -112,7 +112,7 @@ points = np.array([
     [0, -1, 0, 3],  # P9
     [3, 2, 1, 0],   # P10
 ], dtype=float)
-
+```
 
 יש לשלוח את הפתרון למייל:
 📧 [pythonai200425+svmhw@gmail.com](mailto:pythonai200425+svmhw@gmail.com)
