@@ -31,6 +31,9 @@ bananas = np.array([[7, 120], [6, 110], [8, 115], [7.5, 125], [6.5, 118]])
 X = np.vstack([apples, bananas])
 labels = np.array([-1, -1, -1, -1, -1, 1, 1, 1, 1, 1])
 ```
+### Demo code:
+
+<a href="https://github.com/pythonai200425/24.11.2025/blob/main/svm_2.ipynb">https://github.com/pythonai200425/24.11.2025/blob/main/svm_2.ipynb</a>
 
 ## Tasks
 
