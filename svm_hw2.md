@@ -62,3 +62,7 @@ labels = np.array([-1, -1, -1, -1, -1, 1, 1, 1, 1, 1])
 * Compute confusion matrix
 * Compute accuracy
 * Print both
+
+
+יש לשלוח את הפתרון למייל:
+📧 [pythonai200425+svmhwf@gmail.com](mailto:pythonai200425+svmhwf@gmail.com)
