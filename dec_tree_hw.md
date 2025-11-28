@@ -25,6 +25,9 @@ Use a **Decision Tree Classifier** to predict whether an animal is a **cat**, **
 4. Compare how the different split ratios affect the results   
 5. Predict the animal type with features `[34, 17]` Use the trained model to **predict its class**
 
+**Demo code:**  
+https://github.com/pythonai200425/27.11.2025/blob/main/dec_2.ipynb
+
 ## Sample Code
 
 ```python
