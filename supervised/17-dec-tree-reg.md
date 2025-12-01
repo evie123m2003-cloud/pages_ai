@@ -1,4 +1,4 @@
-# Homework: Regression Tree – MSE, Split Quality, and R²
+# Exercise: Regression Tree – MSE, Split Quality, and R²
 
 <img src="images/tree1.png" width="35%"/>
 
@@ -75,3 +75,6 @@ print(rules)
 
 * Try changing `max_depth` to `2` or `3` and see how the tree changes.
 * Recompute MSE and R². Does the performance improve? Does it look like the tree might be overfitting on such a small dataset?
+
+יש לשלוח את הפתרון למייל:
+📧 [pythonai200425+decreghw@gmail.com](mailto:pythonai200425+decreghw@gmail.com)
