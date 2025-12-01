@@ -1,4 +1,4 @@
-# Exercise: Regression Tree – MSE, Split Quality, and R²
+# Regression Tree – MSE, Split Quality, and R²
 
 <img src="images/tree1.png" width="35%"/>
 
