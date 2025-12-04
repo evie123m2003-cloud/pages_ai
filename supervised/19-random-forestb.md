@@ -1,6 +1,6 @@
 # יער רנדומלי (Random Forest)
 
-<img src="images/randomf.jpg" width="80%" />
+<img src="images/randomf.png" width="80%" />
 
 ## הבעיה שרוצים לפתור
 
