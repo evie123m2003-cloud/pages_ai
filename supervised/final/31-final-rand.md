@@ -21,7 +21,9 @@
 אקראיות  מוודא שכל עץ יהיה שונה קצת מאחרים טעויות של עצים שונים לא יהיו זהות  מה שמשפר את הדיוק.
 
 כיצד מתקבלת התחזית הסופית ב־Random Forest לקלסיפיקציה?
+
 על עץ מצביע למחלקה מסויימת התחזית הסופית מתקבלת על ידי הצבעת רוב המחלקה שקיבלה את מספר הקולות הגבוה ביותר נבחרת.
+
 מהו מנגנון ההצבעה (Voting) ב־Random Forest וכיצד הוא פועל?
 
 מנגנון ההצבעה הוא תהליך שכל עץ נותן תחזית משלו.
@@ -48,7 +50,15 @@
 
 אילו מדדי ביצוע מתאימים להערכת מודל Random Forest בקלסיפיקציה וברגרסיה?
 
----
+בבעיות קלסיפקציה 
+Accuracy
+recall
+Precision 
+f1(שילוב של המדדים)
+בבעיות רגרסיה 
+MSE
+MAE
+R בריבוע
 
 יש לשלוח את הפתרון למייל:
 📧 [pythonai200425+supfinal@gmail.com](mailto:pythonai200425+supfinal@gmail.com)
