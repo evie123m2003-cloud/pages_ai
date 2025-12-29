@@ -46,11 +46,11 @@ Draw the **2×2 Confusion Matrix** (rows = true label, columns = prediction)
 
 Which of the following is **NOT** a hyperparameter
 
-A. Number of neighbors K in KNN
-B. Polynomial degree in polynomial regression
-C. Maximum depth of a decision tree
-D. Weights learned during model training
-E. Threshold in logistic regression
+A. Number of neighbors K in KNN  
+B. Polynomial degree in polynomial regression  
+C. Maximum depth of a decision tree  
+D. Weights learned during model training  
+E. Threshold in logistic regression  
 
 ---
 
@@ -82,21 +82,21 @@ At the root node there are 4 Success and 4 Fail samples
 
 The data is:
 
-x=1 → Success
-x=2 → Success
-x=3 → Success
-x=4 → Fail
-x=5 → Fail
-x=6 → Fail
-x=7 → Fail
-x=8 → Success
+x=1 → Success  
+x=2 → Success  
+x=3 → Success  
+x=4 → Fail  
+x=5 → Fail  
+x=6 → Fail  
+x=7 → Fail  
+x=8 → Success  
 
 Which split condition gives the **largest Gini Gain**
 
-A. x ≤ 2
-B. x ≤ 3
-C. x ≤ 4
-D. x ≤ 7
+A. x ≤ 2  
+B. x ≤ 3  
+C. x ≤ 4  
+D. x ≤ 7  
 
 ---
 
@@ -161,10 +161,10 @@ A model achieves very high accuracy on the training set but low accuracy on the 
 
 What does this indicate
 
-A. Underfitting
-B. Overfitting
-C. Balanced model
-D. Unsupervised learning
+A. Underfitting  
+B. Overfitting  
+C. Balanced model  
+D. Unsupervised learning  
 
 ---
 
@@ -192,10 +192,10 @@ x = (2,1,1)
 
 Determine the model decision
 
-A. Intrusion detected
-B. No intrusion
-C. Point lies exactly on the surface
-D. Cannot be determined
+A. Intrusion detected  
+B. No intrusion  
+C. Point lies exactly on the surface  
+D. Cannot be determined  
 
 ---
 
@@ -203,10 +203,10 @@ D. Cannot be determined
 
 What is **Out-of-Bag Error** in Random Forest
 
-A. Error calculated on the test set only
-B. Error calculated using samples not selected in bootstrap sampling
-C. Error caused by too many trees
-D. Error that applies only to regression problems
+A. Error calculated on the test set only  
+B. Error calculated using samples not selected in bootstrap sampling  
+C. Error caused by too many trees  
+D. Error that applies only to regression problems  
 
 ---
 
@@ -268,16 +268,14 @@ Calculate the **population standard deviation**
 
 ---
 
----
-
 ## Question 16 – Supervised Learning
 
 What characterizes **Supervised Learning**
 
-A. The data has no labels
-B. The model learns using rewards and penalties
-C. The data includes input features and known output labels
-D. The model performs clustering only
+A. The data has no labels  
+B. The model learns using rewards and penalties  
+C. The data includes input features and known output labels  
+D. The model performs clustering only  
 
 ---
 
@@ -285,10 +283,10 @@ D. The model performs clustering only
 
 What is the main difference between **Regression** and **Classification** problems
 
-A. Regression predicts categories while classification predicts numbers
-B. Regression predicts continuous values while classification predicts discrete classes
-C. Classification is always unsupervised
-D. There is no difference between them
+A. Regression predicts categories while classification predicts numbers  
+B. Regression predicts continuous values while classification predicts discrete classes  
+C. Classification is always unsupervised  
+D. There is no difference between them  
 
 ---
 
@@ -296,10 +294,10 @@ D. There is no difference between them
 
 What is a **model** in Machine Learning
 
-A. A raw dataset
-B. A function or system that learns patterns from data and makes predictions on new data
-C. A visualization tool
-D. A data cleaning algorithm
+A. A raw dataset  
+B. A function or system that learns patterns from data and makes predictions on new data  
+C. A visualization tool  
+D. A data cleaning algorithm  
 
 ---
 
@@ -307,10 +305,10 @@ D. A data cleaning algorithm
 
 What is the role of the **Training Set** compared to the **Test Set**
 
-A. Training is used for evaluation, test is used for learning
-B. Both are used for learning
-C. Training is used to learn model parameters, test is used to evaluate performance on unseen data
-D. Test set is used only for normalization
+A. Training is used for evaluation, test is used for learning  
+B. Both are used for learning  
+C. Training is used to learn model parameters, test is used to evaluate performance on unseen data  
+D. Test set is used only for normalization  
 
 ---
 
@@ -318,10 +316,10 @@ D. Test set is used only for normalization
 
 Which types of problems can **Random Forest** solve
 
-A. Classification only
-B. Regression only
-C. Both classification and regression
-D. Unsupervised problems only
+A. Classification only  
+B. Regression only  
+C. Both classification and regression  
+D. Unsupervised problems only  
 
 ---
 
@@ -329,10 +327,10 @@ D. Unsupervised problems only
 
 A regression tree predicts values by:
 
-A. Taking the maximum value in each leaf
-B. Taking the average of target values in each leaf
-C. Using a sigmoid function
-D. Selecting a random value
+A. Taking the maximum value in each leaf  
+B. Taking the average of target values in each leaf  
+C. Using a sigmoid function  
+D. Selecting a random value  
 
 ---
 
@@ -340,10 +338,10 @@ D. Selecting a random value
 
 What is the effect of increasing the **polynomial degree** in a regression model
 
-A. Always reduces error on new data
-B. Increases model complexity and risk of overfitting
-C. Reduces number of features
-D. Converts regression into classification
+A. Always reduces error on new data  
+B. Increases model complexity and risk of overfitting  
+C. Reduces number of features  
+D. Converts regression into classification  
 
 ---
 
@@ -351,10 +349,10 @@ D. Converts regression into classification
 
 What is a likely effect of choosing a very small value of **K** in KNN
 
-A. High bias, low variance
-B. Low bias, high variance
-C. No effect on the model
-D. Model becomes linear
+A. High bias, low variance  
+B. Low bias, high variance  
+C. No effect on the model  
+D. Model becomes linear  
 
 ---
 
@@ -362,10 +360,10 @@ D. Model becomes linear
 
 The output of **Logistic Regression** after applying the sigmoid function represents:
 
-A. A class label directly
-B. A distance from the decision boundary
-C. A probability estimate
-D. A regression value
+A. A class label directly  
+B. A distance from the decision boundary  
+C. A probability estimate  
+D. A regression value  
 
 ---
 
@@ -373,10 +371,10 @@ D. A regression value
 
 Which metric is most commonly used to evaluate **classification accuracy**
 
-A. Mean Squared Error
-B. Accuracy
-C. Variance
-D. Standard Deviation
+A. Mean Squared Error  
+B. Accuracy  
+C. Variance  
+D. Standard Deviation  
 
 ---
 
